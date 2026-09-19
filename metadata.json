@@ -1,0 +1,13 @@
+{
+  "name": "CodeArcade",
+  "version": "1.0.0",
+  "description": "Interactive, gamified coding platform designed for absolute beginners with an integrated AI tutor.",
+  "requestFramePermissions": [],
+  "capabilities": {
+    "serverApiSupport": true,
+    "interactiveEvaluation": true,
+    "aiPedagogicalTutor": true
+  },
+  "author": "CodeArcade Architecture Team",
+  "license": "MIT"
+}
